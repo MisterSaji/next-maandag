@@ -4,7 +4,7 @@ export default function Home() {
       <main class="grid">
         <img src="https://picsum.photos/seed/picsum/700/400" alt="Mountains" />
         <div class="welcome">
-          <h2>Mountains evert</h2>
+          <h2>Mountains everrt</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus,
             cumque molestiae culpa nisi voluptatibus laudantium mollitia
